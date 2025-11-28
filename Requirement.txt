@@ -1,0 +1,10 @@
+LISTING ALL NECESSARY DEPENDENCIES OF THIS DASHBOARD:
+
+dash
+dash-table
+plotly
+psutil
+pandas
+
+We can install these dependencies using:
+pip install -r requirements.txt
