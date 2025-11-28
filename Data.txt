@@ -1,0 +1,11 @@
+This project collects real-time system performance data, so it doesn't require a static data file. However, if you want to test the dashboard without live monitoring, you can use a sample CSV file.
+The sample file contains: 
+
+CPU Usage (%) – Simulated CPU usage over time.
+
+Memory Usage (%) – Random memory usage values.
+
+Disk Usage (%) – Simulated disk usage data.
+
+Running Processes – Sample process details like PID, name, CPU %, and memory %.
+We attached two sample data files in this repository.
